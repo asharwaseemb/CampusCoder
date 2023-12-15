@@ -1,0 +1,7 @@
+Contents: Synthetic dataset and python code notebook to detect fraud credit-card transactions.
+Dataset:
+step
+age
+category
+amount
+fraud
